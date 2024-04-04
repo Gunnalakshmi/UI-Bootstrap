@@ -1,0 +1,33 @@
+
+.bg-container {
+  background-image: url("https://www.purpleologist.com/product_images/uploaded_images/p-sunse-.png");
+  height: 100vh;
+  background-size: cover;
+}
+.tourism-card {
+  text-align: center;
+  background-color: #d1beed;
+  padding: 5px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+.main-heading {
+  font-family: "Roboto";
+  color: #2b1052;
+}
+.paragraph {
+  font-family: "Roboto";
+  color: #2b1052;
+}
+.button {
+  color: white;
+  background-color: #b799e0;
+  width: 138px;
+  height: 36px;
+  border-width: 0px;
+  border-radius: 20px;
+}
+
+

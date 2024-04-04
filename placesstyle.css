@@ -1,0 +1,39 @@
+.favourite-places-bg-container {
+    background-image: url("https://i.pinimg.com/564x/34/4a/98/344a985d693e9f8eab37ceed0bfc90a4.jpg");
+    height: 180vh;
+  }
+  
+  .favourite-places-heading {
+    color: #b799e0;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+    padding: 24px;
+    text-align: center;
+  }
+  
+  .favourite-place-card-container {
+    background-color: #b799e0;
+    border-radius: 15px;
+    padding: 16px;
+    margin: 15px;
+  }
+  
+  .favourite-place-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  .favourite-place-card-description {
+    color: #2b1052;
+    font-family: "Roboto";
+    font-size: 20px;
+  }
+  
+  .favourite-place-card-image {
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+  }
